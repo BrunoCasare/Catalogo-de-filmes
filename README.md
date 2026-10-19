@@ -2,9 +2,7 @@
 
 ## Projeto testando MySQL e PHP
 
-https://casaflix.site.je
-
-Site feito como trabalho de faculdade na matéria de Programaçâo Web. Hospedado na infinityfree.  
+Site feito como trabalho de faculdade na disciplina de Programaçâo Web. 
 
 Tecnologias usadas:  
 -PHP  
